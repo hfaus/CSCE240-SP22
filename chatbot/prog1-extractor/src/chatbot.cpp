@@ -1,4 +1,4 @@
-// written by hannah faus Jan 2022
+// Written by Hannah Faus Jan 2022 - CSCE 240 - Project 1
 #include <string>
 #include <iostream>
 #include <fstream>
