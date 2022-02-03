@@ -1,0 +1,24 @@
+Name: Elizabeth "Spencer" Wetmore
+Political Party: Democrat
+District number: 115
+District county: Charleston
+Home addy: P.O. Box 1085 Folly Beach 29439
+Cola addy: 422A Blatt Bldg. Columbia 29201
+Cell phone:  (843) 693-8292
+Business phone:  (803) 212-6872
+Personal info: 
+ Attorney, Wetmore Law Firm 
+ Residing in Folly Beach 
+ Born April 22, 1983 in Charleston 
+ Daughter of Kell Brunson Compton and Melinda Lucka Kelley 
+ Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010 
+ May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate 
+ Assistant Solicitor, Charleston County, 2010-14 
+ City Administrator, City of Folly Beach, 2014-20 
+ Member, Tourism Expenditure Review Committee, 2018-20 
+
+
+Statistics for data/SCLegislature.txt:
+Number of characters: 1317
+Number of words: 205
+Number of lines: 34
