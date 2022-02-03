@@ -1,0 +1,16 @@
+The code contained in this folder is the code that I have written for the chatbot project for CSCE 240 - Spring 2022.
+Currently, I am only on Project 1 - which entails being able to process the given text file for information.
+I have designated three folders within the project folder to house my code as well as other viable pieces of information.
+
+The first one is the data folder. This folder contains SCLegislature.txt which houses the information parsed in my main code.
+The information within SCLegislature.txt was obtained from the website https://www.scstatehouse.gov/member.php?code=1905681590
+and then was converted from html to txt. There were slight edits made to make it easier to read (taking out some of the
+untranslated characters, etc.)
+
+The second one is the src folder. This folder contains chatbot.cpp, which is my main code, and is able to access the given text
+file and parse through looking for key words. I compared my representative to other representative files and chose words that
+would allow this file to be exchanged to fit other profiles. Currently, there is only the main() method and a void read() function.
+The read() function opens the text file and parses through it to find and save the relevant information. This can be shown through
+the information being read out to the command line. The main() method only calls the read() function.
+
+The third one is the doc folder. This folder contains the README.md file and the description.txt file that I am currently writing on.
