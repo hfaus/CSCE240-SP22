@@ -1,3 +1,7 @@
+/** Written by Hannah Faus
+* Jan 2022 - Project 1 - CSCS 240
+**/
+
 The code contained in this folder is the code that I have written for the chatbot project for CSCE 240 - Spring 2022.
 Currently, I am only on Project 1 - which entails being able to process the given text file for information.
 I have designated three folders within the project folder to house my code as well as other viable pieces of information.
