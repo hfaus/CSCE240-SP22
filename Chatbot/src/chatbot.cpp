@@ -1,4 +1,7 @@
-// written by hannah faus Jan 2022
+/** Written by Hannah Faus
+* Jan 2022 - Project 1 - CSCS 240
+**/
+
 #include <string>
 #include <iostream>
 #include <fstream>
