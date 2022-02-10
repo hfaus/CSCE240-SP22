@@ -1,0 +1,5 @@
+The areas for the provided shapes are below.
+RECTANGLE -41.04
+ERROR: Area above contains illegal inputs.
+CIRCLE 74.7772
+TRIANGLE 2.95
