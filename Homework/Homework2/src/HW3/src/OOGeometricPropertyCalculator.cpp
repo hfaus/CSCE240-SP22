@@ -136,9 +136,9 @@ int main(int argc, char* argv[]) {
     cout << "Welcome to the Geometric Property Calculator! Here you can ";
     cout << "decide whether you would like to know the area or perimeter for an ";
     cout << "assortment of RECTANGLEs, CIRCLEs, or TRIANGLES." << endl;
-    cout << "Be aware that the area of a TRIANGLE cannot be ";
-    cout << "calculated with the current, limited information. " << endl;
-    cout << "Therefore, a 0 will be listed as the TRIANGLE's area." << endl;
+    cout << "Be aware that the area of a TRIANGLE will be ";
+    cout << "calculated with the first and second side of " << endl;
+    cout << "the TRIANGLE." << endl;
     cout << " " << endl;
 
     // getting the option
