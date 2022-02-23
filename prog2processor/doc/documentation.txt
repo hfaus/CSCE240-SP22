@@ -2,11 +2,14 @@ Hannah Faus
 
 Command to run: g++ src/chatbot.cpp src/contactInformation.cpp src/personalInformation.cpp
                 ./a.out
+Inputs from user: work in the format contactInfomation: and personal: without spaces
+  for contact information you can ask for name, district information, addresses and phone numbers as well as their corresponding sub categories (firstName, homeAddress, businessPhone, etc.)
+  for personal it just prints out all of the personal information.
                 
 The code contained in this folder is the code that I have written for the chatbot project for CSCE 240 - Spring 2022. I have SC District 115. Currently, I am on Project 2 - which entails being able to extract the given text file, take in an input from the user and provide the user with the information that they asked for.
 
 The first one is the data folder. This folder contains input.txt which houses the information parsed in my main code. The information within input.txt was obtained from the website https://www.scstatehouse.gov/member.php?code=1905681590 and then was converted from html to txt. There is also an test_output.txt that displays the input from the user and the output that was obtained.
 
-The second one is the src folder. This folder contains chatbot.cpp, which is my main code, and is able to access the given text file and parse through looking for key words. I compared my representative to other representative files and chose words that would allow this file to be exchanged to fit other profiles. Currently, there is the main() function, read() function and extract() function. The read() function opens the input file and parses through it to find and save the relevant information. The extract() function opens the input file and tracks the number of lines, words and chars. Both of these functions display their information in the output file. The main() function calls the other two functions and allows the user to input their desired District number. At this point, the only District number that is accepted is 115.
+The second one is the src folder. This folder contains chatbot.cpp, which is my main code, and is able to access the given text file and parse through looking for key words. I compared my representative to other representative files and chose words that would allow this file to be exchanged to fit other profiles. Currently, there is the main() function, read() function and write() function. The read() function opens the input file and parses through it to find and save the relevant information. The extract() function opens the input file and finds information to store. The main() function calls the other classes in order to find the key information that the user is searching for as well as the read() and write() functions. The write() function sends the users input as well as the programs output to test_output.txt.
 
 The third one is the doc folder. This folder contains the documentation.txt file aka this file.                
