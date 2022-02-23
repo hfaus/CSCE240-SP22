@@ -124,7 +124,7 @@ int main(int argc, char* argv[]) {
         read();
         // ask for what the desired information is
         cout << "Please ask what kind of information you would like to know!" << endl;
-        cout << "For example, if you want to know the name, please use the format:" << endl;
+        cout << "For example, if you want to know the name, please use the format without spaces:" << endl;
         cout << "contactInformation:name" << endl;
         // what the desired information is
         string inputInfo;
@@ -175,7 +175,7 @@ int main(int argc, char* argv[]) {
         } else if (strcasestr(inputInfo.c_str(),"vot")) {  // for votingRecord
             cout << "Currently working on code for obtaining voting record." << endl;
         } else {
-            cout << "Matching unsuccessful" << endl;
+            cout << "Matching unsuccessful, please reformat and make sure there aren't spaces." << endl;
         }
     } else {
         cout << "Sorry! We only have the content for district 115 at this time." << endl;
