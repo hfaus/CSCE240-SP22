@@ -1,0 +1,23 @@
+Programming Assignment 3 - UI
+
+Commands to run program: g++ src/chatbot.cpp src/contactInformation.cpp src/personalInformation.cpp
+                        ./a.out
+
+In this portion of the programming assignment, the goal was to handle a user input, find the information
+that the user wants, and then make that information available in the command line. In order to do this,
+I used four separate folders: data, doc, src, and test.
+
+The data folder just contains input.txt which is where the information extracted from the representative's
+website is. There is no need for an output file now because the information is available in the command line.
+
+The doc folder contains description.txt and the UML diagram. These two are used to understand what the program
+is meant to do and how it should be run.
+
+The src folder currently contains a lot of files, but the only ones currently being used in the program are
+chatbot.cpp, contactInformation.cpp and .h, personalInformation.cpp and .h. The other ones are ones that I am
+working on to extract other information like committees and voting records but they aren't done yet. The chatbot.cpp
+file takes in the user input and processes it to determine what the user is asking for. It determines the key word
+then calls either contactInformation.cpp or personal.cpp to process it further and output a response. This loop runs
+until the user types Quit, quit, or q. The output contains both the users original input and the programs output.
+
+The test folder just contains a.out because I use this in testing.
