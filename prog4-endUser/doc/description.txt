@@ -1,0 +1,24 @@
+Programming Assignment 4 - End User
+
+Commands to run program: g++ src/chatbot.cpp
+                        ./a.out
+
+Website for information: https://www.scstatehouse.gov/member.php?code=1905681590
+
+In this portion of the programming assignment, the goal was to handle an utterance from the user, process the utterance,
+and match the utterance with the proper response from the chatbot which would be available in the command line. The
+program uses a continuous while loop to continue until the user inputs q, Quit, or quit. In order to do this,
+I used four separate folders: data, doc, src, and test.
+
+The data folder just contains input.txt which is where the information extracted from the representative's
+website is. There is no need for an output file now because the information is available in the command line.
+
+The doc folder contains description.txt and was used to understand what the program is meant to do and 
+how it should be run.
+
+The src folder contains chatbot.cpp. This program takes in a prompted utterance from the user and processes it into a
+vector. Likewise, it reads from a text file and processes the matching buzzwords into a vector and leaves the response
+as a string. Then the two vectors were compared to search for word matches and the lines with the most matches were
+outputted to the user.
+
+The test folder contains test.txt which holds the output of the test phrases listed on blackboard.
