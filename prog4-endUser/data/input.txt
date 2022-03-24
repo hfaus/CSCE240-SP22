@@ -1,0 +1,18 @@
+hi hey hello: Hello! What would you like to know?
+everything what first last nick name: The representative's name is Elizabeth "Spencer" Wetmore
+everything what political party affiliation: The representative is a Democrat
+everything what district number: The representative's district number is 115
+everything what district county: The representative's district county is Charleston
+everything what contact where live home address: The representative's home address is P.O. Box 1085 Folly Beach 29439
+everything what contact where work columbia address: The representative's work address is 422A Blatt Bldg. Columbia 29201
+everything what contact reach home cell phone number: The representative's cell phone number is (843) 693-8292
+everything what contact reach work business phone number: The representative's business phone number is (803) 212-6872
+everything what committee on: The representative is on the Judiciary committee
+everything personal about where live: Residing in Folly Beach
+everything personal about birthday born: Born April 22, 1983 in Charleston
+everything personal about who related parent family: Daughter of Kell Brunson Compton and Melinda Lucka Kelley
+everything personal about what where college school university: Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010
+everything personal about who related husband wife marry married spouse kid child family: May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate
+everything personal about job history: Assistant Solicitor, Charleston County, 2010-14
+everything personal about job history: City Administrator, City of Folly Beach, 2014-20
+everything personal about job history: Member, Tourism Expenditure Review Committee, 2018-20
