@@ -1,0 +1,56 @@
+Thank you for using the chatbot. Have a nice day!
+hannahfaus@Hannahs-MacBook-Pro-2 proj4-endUser % g++ src/chatbot.cpp
+hannahfaus@Hannahs-MacBook-Pro-2 proj4-endUser % ./a.out            
+Hello! Welcome to the district chatbot!
+If you would like to exit the chatbot at any time please type Quit, quit or q
+What can I help you with today?
+Tell me about the rep
+You asked: Tell me about the rep
+Residing in Folly Beach
+Born April 22, 1983 in Charleston
+Daughter of Kell Brunson Compton and Melinda Lucka Kelley
+Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010
+May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate
+Assistant Solicitor, Charleston County, 2010-14
+City Administrator, City of Folly Beach, 2014-20
+Member, Tourism Expenditure Review Committee, 2018-20
+Is there anything else I can help you with?
+Where does the rep live
+You asked: Where does the rep live
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+Residing in Folly Beach
+Is there anything else I can help you with?
+HOw do i contact my representative
+You asked: How do i contact my representative
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+The representative's work address is 422A Blatt Bldg. Columbia 29201
+The representative's cell phone number is (843) 693-8292
+The representative's business phone number is (803) 212-6872
+Is there anything else I can help you with?
+What committee is my repo on
+You asked: What committee is my repo on
+The representative is on the Judiciary committee
+Is there anything else I can help you with?
+Tell me everything
+You asked: Tell me everything
+The representative's name is Elizabeth "Spencer" Wetmore
+The representative is a Democrat
+The representative's district number is 115
+The representative's district county is Charleston
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+The representative's work address is 422A Blatt Bldg. Columbia 29201
+The representative's cell phone number is (843) 693-8292
+The representative's business phone number is (803) 212-6872
+The representative is on the Judiciary committee
+Residing in Folly Beach
+Born April 22, 1983 in Charleston
+Daughter of Kell Brunson Compton and Melinda Lucka Kelley
+Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010
+May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate
+Assistant Solicitor, Charleston County, 2010-14
+City Administrator, City of Folly Beach, 2014-20
+Member, Tourism Expenditure Review Committee, 2018-20
+Is there anything else I can help you with?
+q
+Thank you for using the chatbot. Have a nice day!
+hannahfaus@Hannahs-MacBook-Pro-2 proj4-endUser % 
