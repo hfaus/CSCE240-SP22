@@ -1,0 +1,17 @@
+-showchat-summary 6
+Chat 6 has user asking 1 times and system responding 0 times. Total duration is 31 seconds.
+
+-summary
+There are 7 chats to date with user asking 9 times and system responding 3 times. Total duration is 1772 seconds.
+
+-showchat 100
+ERROR: there are only 7 sessions. Please choose a valid session number.
+
+-showchat 1
+hi
+Hello! What would you like to know?
+name
+The representative's name is Elizabeth "Spencer" Wetmore
+live
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+Residing in Folly Beach

@@ -1,0 +1,7 @@
+hi
+Hello! What would you like to know?
+name
+The representative's name is Elizabeth "Spencer" Wetmore
+live
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+Residing in Folly Beach
