@@ -1,5 +1,7 @@
 Programming Assignment 6 - Final Product
 
+https://youtu.be/zM4GguOxsVM
+
 Commands to run program: g++ src/chatbot.cpp
                         ./a.out
 
