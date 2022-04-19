@@ -1,0 +1,34 @@
+Programming Assignment 6 - Final Product
+
+Commands to run program: g++ src/chatbot.cpp
+                        ./a.out
+
+Website for information: https://www.scstatehouse.gov/member.php?code=1905681590
+
+In this portion of the programming assignment, the goal was to combine P1, P2, P3, P4 and P5 into a working
+chatbot that includes the specific capabilities from each project. There are three portions to this project,
+1. A working prototype with a video displaying that it works:
+2. A report
+3. A presentation
+
+The data folder just contains input.txt which is the downloaded webpage into a .txt file while is parsed 
+by the program in order to create output.txt which is used in program matching. The folder also contains the
+chat_sessions folder with all of the .txt session files, and the chat_statistics.csv file that contains the
+statistics for all of the chat sessions.
+
+The doc folder contains description.txt and was used to understand what the program is meant to do and 
+how it should be run. Also, it contains the required add ons for the final chatbot assignment so the 
+report, the video and the presentation are found here as well.
+
+The src folder contains chatbot.cpp. Since this program is a compiled version of the other projects, refer to 
+those for a more detailed description of the specifc functions. The functions used are:
+- main() : calls all functions and prompts the user
+- read() : reads the relevant information from input.txt to output.txt
+- commandMatch() : if the user asks a command, matches the command to the appropiate response
+- createSession() : creates a new session of the interaction betweeen the user and the program
+- sessionSearch() : given the correct command, searches for the corresponding statistics
+- questionMatch() : if the user asks a question, matches the question to the appropiate response
+Because I sort of combined my code throughout the process, the project is similar to P5 with the data
+reading aspect (read()) of P1/P2.
+
+The test folder contains test.txt which holds the output of some of the test cases.
