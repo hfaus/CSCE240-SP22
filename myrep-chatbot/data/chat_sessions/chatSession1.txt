@@ -1,0 +1,59 @@
+Tell me about the representative
+Residing in Folly Beach
+Born April 22, 1983 in Charleston
+Daughter of Kell Brunson Compton and Melinda Lucka Kelley
+Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010
+May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate
+Assistant Solicitor, Charleston County, 2010-14
+City Administrator, City of Folly Beach, 2014-20
+Member, Tourism Expenditure Review Committee, 2018-20
+Where does the rep live
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+Residing in Folly Beach
+How do I contact my rep
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+The representative's work address is 422A Blatt Bldg. Columbia 29201
+The representative's cell phone number is (843) 693-8292
+The representative's business phone number is (803) 212-6872
+What is my reps phone number
+The representative's cell phone number is (843) 693-8292
+The representative's business phone number is (803) 212-6872
+What committees is my repo on
+The representative is on the Judiciary committee
+Tell me everything
+The district supported for Q/A is Ditrict 115 - Charleston County
+The representative's name is Elizabeth "Spencer" Wetmore
+The representative is a Democrat
+The representative's district number is 115
+The representative's district county is Charleston
+The representative's home address is P.O. Box 1085 Folly Beach 29439
+The representative's work address is 422A Blatt Bldg. Columbia 29201
+The representative's cell phone number is (843) 693-8292
+The representative's business phone number is (803) 212-6872
+The representative is on the Judiciary committee
+Residing in Folly Beach
+Born April 22, 1983 in Charleston
+Daughter of Kell Brunson Compton and Melinda Lucka Kelley
+Graduated Princeton University, A.B., 2005, Vanderbilt University School of Law, J.D., 2010
+May 3, 2014 married Burns Malone Wetmore, 2 children Brooks and Lola Kate
+Assistant Solicitor, Charleston County, 2010-14
+City Administrator, City of Folly Beach, 2014-20
+Member, Tourism Expenditure Review Committee, 2018-20
+What district do you support for Q/A
+The district supported for Q/A is Ditrict 115 - Charleston County
+Do you like strawberries
+I do not understand. Please rephrase and try again!
+-summary
+There are 18 chats to date with user asking 32 times and system responding 26 times. Total duration is 2548 seconds.
+
+-showchat-summary 2
+Chat 2 has user asking 1 times and system responding 0 times. Total duration is 72 seconds.
+
+-showchat-summary 18
+Chat 18 has user asking 0 times and system responding 0 times. Total duration is 0 seconds.
+
+-showchat 2
+-summary
+-showchat 200
+ERROR: there are only 18 sessions. Please choose a valid session number.
+
